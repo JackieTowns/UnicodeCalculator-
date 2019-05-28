@@ -40,8 +40,12 @@ public class finalUni {
 		System.out.println();
 
 		int resultAbsVal = Math.abs(sumWord1 - sumWord2);
+
 		System.out.println("The sum of the your first word is: " + sumWord1);
 		System.out.println("The sum of the your second word is: " + sumWord2);
+
+		System.out.println();
+
 		System.out.println("Your absolute value difference on your word is: " + resultAbsVal);
 
 		scanner.close();
